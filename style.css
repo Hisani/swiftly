@@ -362,10 +362,6 @@ h1{
 .others {
     display: flex;
     max-width: 40%;
-   
-}
-.lower-footer{
-  
 }
 
 @media (max-width: 1600px) {
